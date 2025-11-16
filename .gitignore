@@ -1,0 +1,22 @@
+#Build
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#CLion
+.idea/
+
+#OS files
+.DS_Store
+Thumbs.db
+
+#Compiled objects
+*.o
+*.obj
+*.exe
+*.out
+
+#Editor swap
+*~
